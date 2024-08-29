@@ -1,4 +1,4 @@
-# Monte-Carlo-3D-for-DebrisCloud
+# A High-Fidelity Monte-Carlo ray tracing program coded in Python-cuda.
 This repository is for the paper “Polarization Characteristics of Massive HVI Debris Clouds using an Improved Monte Carlo Ray Tracing Method for Remote Sensing Applications”.
 DOI: https://doi.org/10.3390/rs16162925
 
